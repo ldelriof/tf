@@ -1,0 +1,1 @@
+terraform apply -var-file prod.tfvars -var-file prod.secret.tfvars
